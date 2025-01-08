@@ -7,4 +7,20 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity2">
 
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/tvPayment"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="24sp"
+            android:text="Оплатить = 0 рублей"/>
+    </LinearLayout>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
