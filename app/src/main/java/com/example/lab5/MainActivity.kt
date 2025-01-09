@@ -1,4 +1,4 @@
-package com.example.laba5
+package com.example.lab5
 
 import android.content.Intent
 import android.os.Bundle
@@ -10,7 +10,6 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
-import com.example.lab5.MainActivity2
 import com.example.lab5.R
 
 class MainActivity : AppCompatActivity() {
